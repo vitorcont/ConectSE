@@ -1,6 +1,6 @@
 # ConectSE
 
-Produto Desenvonvido para a Participação na
+Produto Desenvolvido para a Participação na
 3a Mostra de
 Inovação e
 Empreendedorismo da PUCCampinas,
