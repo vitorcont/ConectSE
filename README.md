@@ -23,8 +23,6 @@ ao usuário
 Índice
 
 
-
-
  Manual de suporte ao usuário
 2
 Prefácio……….....…………...……..................3
