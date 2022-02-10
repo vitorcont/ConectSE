@@ -1,5 +1,5 @@
 # ConectSE
-
+<br></br>
 Produto Desenvolvido para a Participação na
 3a Mostra de
 Inovação e
@@ -11,31 +11,31 @@ Inovação.
 Campinas, 2020
 -----------------------------------------------------------------------------
 
-
+<br></br>
 CONECT.SE
-
+<br></br>
 Sua casa em suas mãos.
 Manual de suporte
 ao usuário
-
-
-
+<br></br>
+<br></br>
+<br></br>
 Índice
-
-
+<br></br>
+<br></br>
  Manual de suporte ao usuário
 2
-Prefácio……….....…………...……..................3
-O que faz o Conecte.SE….........…….............4
-Especificações técnicas………..………..........5
-Como configurar – rede Wi-Fi…....….............6
-Aplicativo no Smartphone………...….............7
-Configurações Básicas………...….................8
-Exemplos de utilização Básica…....…............9
-Configurações Avançadas……..……............10
-Exemplos de utilização Avançada.................11
-Uso e Segurança – Orientações…................12
-Desenvolvedores .......………...........……....12
+Prefácio……….....…………...……..................3<br></br>
+O que faz o Conecte.SE….........…….............4<br></br>
+Especificações técnicas………..………..........5<br></br>
+Como configurar – rede Wi-Fi…....….............6<br></br>
+Aplicativo no Smartphone………...….............7<br></br>
+Configurações Básicas………...….................8<br></br>
+Exemplos de utilização Básica…....…............9<br></br>
+Configurações Avançadas……..……............10<br></br>
+Exemplos de utilização Avançada.................11<br></br>
+Uso e Segurança – Orientações…................12<br></br>
+Desenvolvedores .......………...........……....12<br></br>
 Participação na
 3a Mostra de
 Inovação e
@@ -47,12 +47,12 @@ Inovação.
 Campinas, 2020
 Prefácio
 
+<br></br><br></br><br></br>
 
 
 
 
-
- Manual de suporte ao usuário
+ Manual de suporte ao usuário<br></br>
 3
 O Conect.SE é uma novidade no mercado
 por ser um dispositivo bidirecional de
@@ -78,31 +78,31 @@ de Extensão para a participação na Mostra
 de inovação e empreendedorismo da PUCCampinas motivou os alunos para esse
 grande desafio.
 
-
-
-
-
-
- Manual de suporte ao usuário
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+ Manual de suporte ao usuário<br></br>
 4
 • O Conect.SE permite via smartphone que o
 usuário possa enviar comandos (liga/desliga)
 para um equipamento elétrico-eletrônico e
 receber notificações sobre a presença de
 pessoas num determinado ambiente.
-
+<br></br>
 • O Conect.SE pode, por exemplo, ligar e
 desligar uma lâmpada nos horários
 programados além de alertar se há alguém
 no local.
-
+<br></br>
 • O Conect.SE poderá ser
 utilizado para contabilizar o número de vezes
 que uma pessoa esteve num dado local de
 sua residência, indicando o nível de
 atividade daquela pessoa (muita ativa como
 crianças ou menos ativas como idosos).
-
+<br></br>
 • O Conect.SE pode acionar, por
 exemplo, uma fechadura elétrica ou uma
 cafeteira à distância. A funcionalidade com o
@@ -110,31 +110,31 @@ GPS do smartphone permitirá, por exemplo,
 que as luzes sejam acesas com a
 proximidade do smartphone.
 
-
-
-
+<br></br>
+<br></br>
+<br></br>
 
 Especificações
-técnicas
- Manual de suporte ao usuário
+técnicas<br></br>
+ Manual de suporte ao usuário<br></br>
 5
 Alimentação: Bivolt (127/220V)
 Potência Elétrica < 1 Watt
 Aciona um equipamento até 10A (127/220V)
-Conexão Wi-Fi: 802.11 b/g/n
------------
+Conexão Wi-Fi: 802.11 b/g/n<br></br>
+-----------<br></br>
 A comunicação com o Conect.SE é feita via
 Smartphone através do aplicativo Blynk
 (disponível na Apple Store para iOS e na
-Play Store para Android)
-------------
-Componentes internos:
-NodeMCU V3 – ESP8266
-Sensor de Presença e Movimento PIR DYPME003
-Módulo relé 5V / 10A
-Software: linhas de código desenvolvidas na IDE
-Arduino com interação ao Blynk
----------------
+Play Store para Android)<br></br>
+------------<br></br>
+Componentes internos:<br></br>
+NodeMCU V3 – ESP8266<br></br>
+Sensor de Presença e Movimento PIR DYPME003<br></br>
+Módulo relé 5V / 10A<br></br>
+Software: linhas de código desenvolvidas na IDE<br></br>
+Arduino com interação ao Blynk<br></br>
+---------------<br></br>
 Sensor de
 presença
 Tomada para
@@ -146,13 +146,13 @@ Conect.SE)
 Ligar na
 alimentação
 127/220V
+<br></br>
+<br></br>
+<br></br>
 
 
-
-
-
-Conexão à rede Wi-Fi
- Manual de suporte ao usuário
+Conexão à rede Wi-Fi<br></br>
+ Manual de suporte ao usuário<br></br>
 6
  O microprocessador interno
 do Conect.SE, possui uma placa Wi-Fi modelo
@@ -161,7 +161,7 @@ via roteador Wi-Fi do usuário. Com
 o Smartphone conectado a qualquer rede de
 internet (Wi-Fi ou 3G/4G), o usuário poderá
 controlar diretamente das palmas de suas
-mãos o Conect.SE.
+mãos o Conect.SE.<br></br>
 
 Para conectar o Conect.SE ao Wi-Fi é
 necessário acessar o código do
@@ -169,7 +169,7 @@ microprocessador e inserir o nome da rede e a
 senha. Dessa forma o dispositivo ficará online
 realizando a troca de informações com
 smartphone através do aplicativo da plataforma
-blynk (que deve estar previamente instalado)
+blynk (que deve estar previamente instalado)<br></br>
 Participação na
 3a Mostra de
 Inovação e
@@ -180,10 +180,10 @@ empreendedorismo e à
 Inovação.
 Campinas, 2020
 Aplicativo no
-Smartphone
- Manual de suporte ao usuário
-7
- O Blynk é utilizado em projetos de Internet
+Smartphone<br></br>
+ Manual de suporte ao usuário<br></br>
+7<br></br>
+ O Blynk é utilizado em projetos de Internet<br></br>
 das coisas (IoT) para a comunicação entre
 dispositivos. A partir do aplicativo Blynk ou “Blynk
 App”, facilmente customizado, é feita a
@@ -203,11 +203,11 @@ Informações sobre a
 plataforma Blynk para
 desenvolvedores de IoT:
 https://blynk.io/
-
+<br></br>
 Configurações
-Básicas
+Básicas<br></br>
  Manual de suporte ao usuário
-8
+8<br></br>
 Dentro do aplicativo, é possível acessar as
 configurações básica (aba superior à esquerda),
 onde se pode ativar o relé, por exemplo, para
@@ -220,41 +220,41 @@ Botão que Liga e
 Desliga o relé.
 Tela do Blynk no
 Smatphone
-
-
-
+<br></br>
+<br></br>
+<br></br>
 Interface simples e
 intuitiva
 Exemplos de
-utilização – Básico
- Manual de suporte ao usuário
-9
- Básico (aba superior à esquerda)
-1 – Ligando e desligando o relé:
+utilização – Básico<br></br><br></br>
+ Manual de suporte ao usuário<br></br>
+9<br></br>
+ Básico (aba superior à esquerda)<br></br>
+1 – Ligando e desligando o relé:<br></br>
 Para ligar o relé basta clicar no botão
 vermelho “Desligado”; o botão ficará
-verde aparecendo “Ligado”.
-2 – Ajuste do período
+verde aparecendo “Ligado”.<br></br>
+2 – Ajuste do período<br></br>
 de atividade/funcionamento do relé:
 Para ativar, basta selecionar o
 campo indicado e escolher a hora
-desejada.
+desejada.<br></br>
 3 – Ativando notificação de presença
 Para ativar, clique no botão vermelho
-“Desligado”; ficará verde “Ligado”.
+“Desligado”; ficará verde “Ligado”.<br></br>
 1 – Botão que
 Liga e Desliga o relé.
 2 – Display para ajustar o
 Período de atividade do relé
 3 – Ativa a Notificação de
-presença.
-
-
-
+presença.<br></br>
+<br></br>
+<br></br>
+<br></br>
 Configurações
-avançadas
+avançadas<br></br>
  Manual de suporte ao usuário
-10
+10<br></br>
 Dentro do aplicativo, é possível acessar as
 configurações avançadas (aba superior à
 direita), onde você pode ativar sua localização,
@@ -272,24 +272,24 @@ irá ativar o Conect.SE e
 desativar ao perceber a
 saída do “raio de
 atuação”.
-
-
+<br></br>
+<br></br>
 Exemplos de
-utilização – Avançado
+utilização – Avançado<br></br>
  Manual de suporte ao usuário
-11
- Avançado
+11<br></br>
+ Avançado<br></br>
 1 – Ativar o relé via GPS: Para ativar o gps basta ir
-no botão Vermelho indicativo: off
+no botão Vermelho indicativo: off<br></br>
 2 – Ativando Notificação por período de tempo:
 Para ativar, basta arrastar o botão
-deslizante para o número de horas desejado.
+deslizante para o número de horas desejado.<br></br>
 3 – Programando o período de detecção de
 presença: Para programar, basta clicar no
-campo indicado e selecionar no horário.
-1-Liga e Desliga o GPS.
+campo indicado e selecionar no horário.<br></br>
+1-Liga e Desliga o GPS.<br></br>
 2-Notificação por período de
-Tempo.
+Tempo.<br></br>
 3- Período de detecção de
 presença
 Participação na
@@ -303,9 +303,9 @@ Inovação.
 Campinas, 2020
 Uso, Segurança,
 Orientações e
-advertências
+advertências<br></br>
  Manual de suporte ao usuário
-12
+12<br></br>
 Não deixar o Equipamento exposto a umidade,
 água ou em áreas externas. É um dispositivo “in
 door”, isto é, para ambientes fechados. O tempo de
@@ -316,14 +316,3 @@ dispositivo por ser alimentado na rede elétrica deve
 ficar longe do longe do alcance das crianças, não
 nos responsabilizamos por acidentes causados por
 mal uso.
-Desenvolvedores
-Alunos do 2º Ano de Eng. de Computação - PUC-Campinas
-Guilherme M. B. Garros –gmarquesbraitgarros@gmail.com
-Lucas Grass Beraldo – 19246925 - Grassberaldo@gmail.com
-Vitor Ferrara Conti –vitorconti18@gmail.com
-Alunos do 3º Ano de Eng. de Computação - PUC-Campinas
-Carlos Henrique V. Marques - carlos_dr.kyrillos@hotmail.com
-Giuliano Marques Sanfins - gsanfins@gmail.com
-Matheus Henrique Moretti - moretti.matheus.h@gmail.com
-Professor Extensionista e Orientador - PUC-Campinas
-Francisco de Salles C. Gomes - salles@puc-campinas.edu.br
